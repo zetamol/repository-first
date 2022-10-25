@@ -1,0 +1,40 @@
+body {
+    font-family: 'Century Gothic', sans-serif;
+}
+nav {
+    text-align: center;
+}
+.header-link {
+    margin: 0 15px;
+}
+.link {
+        color: rgb(15, 49, 144);
+}
+a { text-decoration: none;
+    font-weight: bold; }
+a:hover { text-decoration: underline;
+ }
+h1 {
+    font-size: 20px; 
+    font-family: 'Century', serif;
+    color: #1d1a1a;
+    background-color: #efe6e0
+}
+h2 {
+    font-size: 18px;
+    font-family: 'Century', serif; 
+    color: rgb(15, 49, 144);
+    background-color: #efe6e0
+    
+}
+p {
+    color: #734d37;
+}
+ul {
+    color: #734d37;
+}
+.subtitle {
+    border-left: 3px dotted #1a2e6f;
+    padding-left: 10px;
+    color: #1d1a1a;
+}
